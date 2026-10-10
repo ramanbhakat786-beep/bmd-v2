@@ -1,6 +1,6 @@
 # Definition of Key Elements
 
-The Better Managed Development (BMD) organization will employ the following elements in a well-managed governance context
+The Better Managed Development (BMD) organization will employ the following elements in a well-managed governance contex
 
 ## Components 
 
